@@ -3,14 +3,10 @@
   "version": "0.0.1",
   "description": "Hello World! - My first Jelastic app",
   "main": "main.js",
-  "dependencies": {
-    "ejs": "~1.0.0",
-    "static-resource": "~0.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Jelastic Inc.",
-  "license": "BSD-2-Clause"
+  "author": ""
 }
